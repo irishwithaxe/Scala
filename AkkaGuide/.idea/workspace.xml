@@ -2,13 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7b84421-ddf7-43d0-b83a-e4f05d9d141e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BookExercises/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BookExercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BookExercises/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BookExercises/project/target/config-classes/$52794df39acfcf2e3967$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BookExercises/project/target/config-classes/$52794df39acfcf2e3967.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BookExercises/project/target/config-classes/$52794df39acfcf2e3967.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BookExercises/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../BookExercises/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quiz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Quiz/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActorQuiz/.idea/libraries/sbt__com_typesafe_akka_akka_actor_2_12_2_6_0_M2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActorQuiz/.idea/libraries/sbt__com_typesafe_akka_akka_testkit_2_12_2_6_0_M2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActorQuiz/.idea/libraries/sbt__com_typesafe_config_1_3_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActorQuiz/.idea/libraries/sbt__org_scala_lang_modules_scala_java8_compat_2_12_0_8_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActorQuiz/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_12_1_0_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActorQuiz/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActorQuiz/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_12_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActorQuiz/.idea/libraries/sbt__org_scalactic_scalactic_2_12_3_0_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActorQuiz/.idea/libraries/sbt__org_scalatest_scalatest_2_12_3_0_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActorQuiz/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActorQuiz/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActorQuiz/.idea/modules/ActorQuiz-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActorQuiz/.idea/modules/ActorQuiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActorQuiz/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActorQuiz/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActorQuiz/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActorQuiz/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActorQuiz/src/main/scala/Actor1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActorQuiz/src/main/scala/Actor2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActorQuiz/src/main/scala/Actor3.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActorQuiz/src/main/scala/Actor4.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActorQuiz/src/main/scala/App.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActorQuiz/src/test/scala/Actor1Test.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActorQuiz/src/test/scala/Actor2Test.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActorQuiz/src/test/scala/Actor3Test.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActorQuiz/src/test/scala/Actor4Test.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/com/example/DeviceManagerTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/example/DeviceGroup.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/example/DeviceGroup.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/example/DeviceManager.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/example/DeviceManager.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/com/example/DeviceTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/com/example/DeviceTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/META-INF/akka-quickstart-scala.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/DeviceGroup$$anonfun$receive$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/DeviceGroup$$anonfun$receive$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/DeviceGroup$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/DeviceGroup$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/DeviceGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/DeviceGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/DeviceManager$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/DeviceManager$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/DeviceManager$DeviceRegistered$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/DeviceManager$DeviceRegistered$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/DeviceManager$RequestTrackDevice$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/DeviceManager$RequestTrackDevice$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/DeviceManager$RequestTrackDevice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/DeviceManager$RequestTrackDevice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/DeviceManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/example/DeviceManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/akka-quickstart-scala/akka-quickstart-scala$sources/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/akka-quickstart-scala/akka-quickstart-scala$sources/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/akka-quickstart-scala/akka-quickstart-scala$sources/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/akka-quickstart-scala/akka-quickstart-scala$sources/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-quickstart-scala-akka-quickstart-scala$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/test-classes/META-INF/akka-quickstart-scala.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/test-classes/com/example/DeviceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/test-classes/com/example/DeviceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,8 +77,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -30,109 +85,31 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="12" selection-end-column="1" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/Device.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/com/example/DeviceTest.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="99" column="2" selection-start-line="99" selection-start-column="2" selection-end-line="99" selection-end-column="2" />
-              <folding>
-                <element signature="e#21#85#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/DeviceGroup.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="18" column="52" lean-forward="true" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
-              <folding>
-                <element signature="e#21#77#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/DeviceManager.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/IotSupervisor.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/IotApp.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-              <folding>
-                <element signature="e#21#50#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/com/example/AkkaQuickstartSpec.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="10" selection-start-line="6" selection-end-line="6" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/ActorHierarchyExperiments.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-              <folding>
-                <element signature="e#21#68#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sbt">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&quot;{} {}&quot;,</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;&quot;,</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.scala" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -146,29 +123,17 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/example/Device.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/example/DeviceManager.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/example/DeviceGroup.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/com/example/DeviceManagerTest.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/com/example/DeviceTest.scala" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/modules/akka-quickstart-scala.iml" />
-        <option value="$PROJECT_DIR$/.idea/modules/akka-quickstart-scala-build.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/scala_compiler.xml" />
-        <option value="$PROJECT_DIR$/.idea/sbt.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_actor_2_12_2_6_0_M2_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_testkit_2_12_2_6_0_M2_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_config_1_3_4_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_java8_compat_2_12_0_8_0_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_12_1_0_6_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_6_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_12_6_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scalactic_scalactic_2_12_3_0_5_jar.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_2_12_3_0_5_jar.xml" />
+        <option value="$PROJECT_DIR$/src/main/scala/actor_quiz/Actor1.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/actor_quiz/Actor2.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/actor_quiz/Actor3.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/actor_quiz/App.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/actor_quiz/Actor3Test.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/actor_quiz/Actor2Test.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/actor_quiz/Actor1Test.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/actor_quiz/Actor4Test.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/actor_quiz/Actor4.scala" />
       </list>
     </option>
   </component>
@@ -185,33 +150,34 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="akkaguide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="akka-quickstart-scala" type="b2602c69:ProjectViewProjectNode" />
               <item name="AkkaGuide" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="akkaguide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="akka-quickstart-scala" type="b2602c69:ProjectViewProjectNode" />
               <item name="AkkaGuide" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="akkaguide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="akka-quickstart-scala" type="b2602c69:ProjectViewProjectNode" />
               <item name="AkkaGuide" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="akkaguide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="akka-quickstart-scala" type="b2602c69:ProjectViewProjectNode" />
               <item name="AkkaGuide" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="akkaguide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="akka-quickstart-scala" type="b2602c69:ProjectViewProjectNode" />
               <item name="AkkaGuide" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -219,20 +185,20 @@
               <item name="example" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="akkaguide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="akka-quickstart-scala" type="b2602c69:ProjectViewProjectNode" />
               <item name="AkkaGuide" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="akkaguide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="akka-quickstart-scala" type="b2602c69:ProjectViewProjectNode" />
               <item name="AkkaGuide" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="akkaguide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="akka-quickstart-scala" type="b2602c69:ProjectViewProjectNode" />
               <item name="AkkaGuide" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
@@ -243,10 +209,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -261,49 +227,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="ScalaTest.DeviceTest">
-    <configuration name="ActorHierarchyExperiments" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.ActorHierarchyExperiments" />
+  <component name="RunManager" selected="ScalaTest.Actor4Test">
+    <configuration name="Actor4Test" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <module name="akka-quickstart-scala" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AkkaQuickstart" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.AkkaQuickstart" />
-      <module name="akka-quickstart-scala" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IotApp" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.IotApp" />
-      <module name="akka-quickstart-scala" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DeviceTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
-      <module name="akka-quickstart-scala" />
-      <setting name="path" value="com.example.DeviceTest" />
+      <setting name="path" value="actor_quiz.Actor4Test" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
       <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
@@ -314,17 +241,94 @@
       <setting name="jrePath" value="" />
       <envs />
       <setting name="testKind" value="Class" />
-      <setting name="path" value="com.example.DeviceTest" />
+      <setting name="path" value="actor_quiz.Actor4Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Actor4Test.a scheduler should get triggered agentsAmount*(maxCycles - 1) with sorted times" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="akka-quickstart-scala" />
+      <setting name="path" value="actor_quiz.Actor4Test" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <setting name="jrePath" value="" />
+      <envs />
+      <setting name="testKind" value="Test name" />
+      <setting name="path" value="actor_quiz.Actor4Test" />
+      <setting name="testName" value="a scheduler should get triggered agentsAmount*(maxCycles - 1) with sorted times" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Actor4Test.a scheduler should get triggered agentsAmount*(maxCycles - 1)" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="akka-quickstart-scala" />
+      <setting name="path" value="actor_quiz.Actor4Test" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <setting name="jrePath" value="" />
+      <envs />
+      <setting name="testKind" value="Test name" />
+      <setting name="path" value="actor_quiz.Actor4Test" />
+      <setting name="testName" value="a scheduler should get triggered agentsAmount*(maxCycles - 1)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Actor4Test.a scheduler should send triggered agentsAmount*(maxCycles - 1)" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="akka-quickstart-scala" />
+      <setting name="path" value="actor_quiz.Actor4Test" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <setting name="jrePath" value="" />
+      <envs />
+      <setting name="testKind" value="Test name" />
+      <setting name="path" value="actor_quiz.Actor4Test" />
+      <setting name="testName" value="a scheduler should send triggered agentsAmount*(maxCycles - 1)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Actor4Test.a scheduler should sent Trigger message in correct order" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="akka-quickstart-scala" />
+      <setting name="path" value="actor_quiz.Actor4Test" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <setting name="jrePath" value="" />
+      <envs />
+      <setting name="testKind" value="Test name" />
+      <setting name="path" value="actor_quiz.Actor4Test" />
+      <setting name="testName" value="a scheduler should sent Trigger message in correct order" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="ScalaTest.DeviceTest" />
-        <item itemvalue="Application.IotApp" />
-        <item itemvalue="Application.ActorHierarchyExperiments" />
-        <item itemvalue="Application.AkkaQuickstart" />
+        <item itemvalue="ScalaTest.Actor4Test" />
+        <item itemvalue="ScalaTest.Actor4Test.a scheduler should get triggered agentsAmount*(maxCycles - 1) with sorted times" />
+        <item itemvalue="ScalaTest.Actor4Test.a scheduler should sent Trigger message in correct order" />
+        <item itemvalue="ScalaTest.Actor4Test.a scheduler should get triggered agentsAmount*(maxCycles - 1)" />
+        <item itemvalue="ScalaTest.Actor4Test.a scheduler should send triggered agentsAmount*(maxCycles - 1)" />
       </list>
     </recent_temporary>
   </component>
@@ -355,6 +359,7 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="$PROJECT_DIR$" value="4677437287324" />
         <entry key="$PROJECT_DIR$/build.sbt" value="3988941869" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="2678115315" />
         <entry key="$PROJECT_DIR$/project/plugins.sbt" value="86493699" />
@@ -375,62 +380,127 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DeviceTest - 2019.05.30 at 13h 32m 51s.xml">
-      <configuration name="DeviceTest" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="Actor4Test - 2019.06.03 at 23h 56m 08s.xml">
+      <configuration name="Actor4Test" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="DeviceTest - 2019.05.30 at 13h 40m 50s.xml">
-      <configuration name="DeviceTest" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="Actor4Test - 2019.06.03 at 23h 57m 26s.xml">
+      <configuration name="Actor4Test" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="DeviceTest - 2019.05.30 at 15h 01m 56s.xml">
-      <configuration name="DeviceTest" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="Actor4Test_a_scheduler_should_sent_Trigger_message_in_correct_order - 2019.06.03 at 23h 57m 56s.xml">
+      <configuration name="Actor4Test.a scheduler should sent Trigger message in correct order" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="DeviceTest - 2019.05.30 at 15h 25m 46s.xml">
-      <configuration name="DeviceTest" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="Actor4Test_a_scheduler_should_get_triggered_agentsAmount_(maxCycles_-_1)_with_sorted_times - 2019.06.04 at 00h 06m 08s.xml">
+      <configuration name="Actor4Test.a scheduler should get triggered agentsAmount*(maxCycles - 1) with sorted times" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Actor4Test_a_scheduler_should_get_triggered_agentsAmount_(maxCycles_-_1)_with_sorted_times - 2019.06.04 at 00h 08m 36s.xml">
+      <configuration name="Actor4Test.a scheduler should get triggered agentsAmount*(maxCycles - 1) with sorted times" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Actor4Test_a_scheduler_should_get_triggered_agentsAmount_(maxCycles_-_1)_with_sorted_times - 2019.06.04 at 00h 09m 47s.xml">
+      <configuration name="Actor4Test.a scheduler should get triggered agentsAmount*(maxCycles - 1) with sorted times" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Actor4Test_a_scheduler_should_get_triggered_agentsAmount_(maxCycles_-_1)_with_sorted_times - 2019.06.04 at 00h 10m 09s.xml">
+      <configuration name="Actor4Test.a scheduler should get triggered agentsAmount*(maxCycles - 1) with sorted times" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Actor4Test - 2019.06.04 at 00h 10m 23s.xml">
+      <configuration name="Actor4Test" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Actor4Test - 2019.06.04 at 00h 13m 48s.xml">
+      <configuration name="Actor4Test" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Actor4Test - 2019.06.04 at 00h 15m 37s.xml">
+      <configuration name="Actor4Test" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" weight="0.3290461" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.3290461" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3290461" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="sbt" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.3290461" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49946696" weight="0.3290461" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39978564" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.3290461" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.3290461" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3290461" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="sbt" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>probes.size</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.path.toString</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.leftPath</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>leftPath</expression-string>
+        <language-id>Scala</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sbt.bat">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/sbt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/DeviceManager.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="72" lean-forward="true" selection-start-line="37" selection-start-column="72" selection-end-line="37" selection-end-column="72" />
+          <folding>
+            <element signature="e#21#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/ActorHierarchyExperiments.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#21#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/AkkaQuickstart.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="253">
           <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
           <folding>
             <element signature="e#515#531#0" expanded="true" />
@@ -438,81 +508,162 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/ActorHierarchyExperiments.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/Device.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#21#68#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sbt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/IotSupervisor.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/IotApp.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding>
-            <element signature="e#21#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/DeviceManager.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        <state relative-caret-position="238">
+          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/com/example/AkkaQuickstartSpec.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="10" selection-start-line="6" selection-end-line="6" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/Device.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/DeviceGroup.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="18" column="52" lean-forward="true" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+        <state relative-caret-position="510">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="19" />
           <folding>
-            <element signature="e#21#77#0" expanded="true" />
+            <element signature="e#37#103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/example/DeviceManagerTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="84" lean-forward="true" selection-start-line="28" selection-start-column="84" selection-end-line="28" selection-end-column="84" />
+          <folding>
+            <element signature="e#21#85#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/com/example/DeviceTest.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="99" column="2" selection-start-line="99" selection-start-column="2" selection-end-line="99" selection-end-column="2" />
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#21#85#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/IotSupervisor.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="9" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/IotApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="e#21#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/actor_quiz/Actor3.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="49" selection-start-line="49" selection-end-line="50" />
+          <folding>
+            <element signature="e#20#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/actor_quiz/Actor1Test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#20#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/actor_quiz/Actor2Test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#20#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/actor_quiz/Actor3Test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#20#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/DeviceGroup.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="20" column="66" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="66" />
+          <folding>
+            <element signature="e#21#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/actor_quiz/Actor2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207">
+          <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/actor_quiz/Actor4Test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="125" column="26" selection-start-line="125" selection-start-column="26" selection-end-line="125" selection-end-column="26" />
+          <folding>
+            <element signature="e#20#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/actor_quiz/Actor4.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="95" column="37" selection-start-line="95" selection-start-column="37" selection-end-line="95" selection-end-column="37" />
+          <folding>
+            <element signature="e#20#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/actor_quiz/Actor1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="70" column="26" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/actor_quiz/App.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="50" selection-start-line="7" selection-end-line="50" />
+          <folding>
+            <element signature="e#89#418#0" />
+            <element signature="e#422#751#0" />
+            <element signature="e#474#510#0" expanded="true" />
+            <element signature="e#735#1386#0" />
+            <element signature="e#787#825#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="12" selection-end-column="1" />
         </state>
       </provider>
     </entry>

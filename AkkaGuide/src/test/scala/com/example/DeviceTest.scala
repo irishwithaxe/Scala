@@ -14,7 +14,7 @@ class DeviceTest(_system: ActorSystem)
     with BeforeAndAfterAll {
   //#test-classes
 
-  def this() = this(ActorSystem("AkkaQuickstartSpec"))
+  def this() = this(ActorSystem("AkkaTest"))
 
   override def afterAll: Unit = {
     shutdown(system)
