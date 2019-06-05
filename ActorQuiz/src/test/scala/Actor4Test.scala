@@ -31,7 +31,7 @@ class Actor4Test(_system: ActorSystem)
         case m: Agent.Trigger =>
           accum ! messageFormat.format(m.time, id)
           super.receive(m)
-        case _ => println("+got a message")
+        case _ => println("+got an unknown message")
       }
     }
 

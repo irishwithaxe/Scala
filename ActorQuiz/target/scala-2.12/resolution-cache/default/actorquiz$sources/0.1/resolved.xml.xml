@@ -4,7 +4,7 @@
 		module="actorquiz$sources"
 		revision="0.1"
 		status="integration"
-		publication="20190604101747"
+		publication="20190604183515"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

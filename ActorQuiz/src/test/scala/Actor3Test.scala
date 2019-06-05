@@ -127,8 +127,8 @@ class Actor3Test(_system: ActorSystem)
   }
 
   "neighbourhood actor" should {
-    "do nothing if neighbourhood size less than 2" in {
-      val n1 = _system.actorOf(Neighbourhood.props(1, "", testPrinter))
+    "do nothing if neighbourhood size less than 1" in {
+      val n1 = _system.actorOf(Neighbourhood.props(-100, "", testPrinter))
       n1 ! Neighbourhood.Message(1, "test message")
 
       val n2 = _system.actorOf(Neighbourhood.props(-1, "", testPrinter))
@@ -140,9 +140,27 @@ class Actor3Test(_system: ActorSystem)
       printer.expectNoMessage(0.5.seconds)
     }
 
+    "print 2 message if neighbourhood size is 1" in {
+      val n1 =
+        _system.actorOf(Neighbourhood.props(1, "Got message from both neighbours. Id: %s message: %s", testPrinter))
+      n1 ! Neighbourhood.Message(1, "test message to 1")
+
+      printer.receiveN(2)
+      printer.expectNoMessage(0.5.seconds)
+    }
+
+    "print 2 message if neighbourhood size is 2" in {
+      val n1 =
+        _system.actorOf(Neighbourhood.props(2, "Got message from both neighbours. Id: %s message: %s", testPrinter))
+      n1 ! Neighbourhood.Message(1, "test message to 1")
+
+      printer.receiveN(2)
+      printer.expectNoMessage(0.5.seconds)
+    }
+
     "print 2 messages if neighbourhood size more than 2" in {
       val n1 =
-        _system.actorOf(Neighbourhood.props(3, "", testPrinter),
+        _system.actorOf(Neighbourhood.props(3, "Got message from both neighbours. Id: %s message: %s", testPrinter),
                         "neighbourhood3")
       n1 ! Neighbourhood.Message(2, "test message to 2")
 

@@ -72,26 +72,36 @@ the message it received
         if (getFromLeft && getFromRight) {
           printer.print(finalMessage.format(id, message.text))
         }
-
     }
   }
 
   object Neighbourhood {
-    def props(neighboursAmount: Int, finalMessage:String, printer: Printer = DefaultPrinter): Props =
+    def props(neighboursAmount: Int,
+              finalMessage: String,
+              printer: Printer = DefaultPrinter): Props =
       Props(new Neighbourhood(neighboursAmount, finalMessage, printer))
 
     final case class Message(recipient: Int, message: String)
   }
 
-  class Neighbourhood(neighboursAmount: Int, finalMessage:String, printer: Printer) extends Actor {
+  class Neighbourhood(neighboursAmount: Int,
+                      finalMessage: String,
+                      printer: Printer)
+      extends Actor {
     val neighbours: Map[Int, ActorRef] = {
-      if (neighboursAmount < 3) Map[Int, ActorRef]()
-      else {
-        def makeNeighbour(id: Int, leftId: Int, rightId: Int): ActorRef = {
-          val lp = self.path + "/" + leftId.toString
-          val rp = self.path + "/" + rightId.toString
-          context.actorOf(Neighbour.props(id, lp, rp, finalMessage, printer), id.toString)
-        }
+      def makeNeighbour(id: Int, leftId: Int, rightId: Int): ActorRef = {
+        val lp = self.path + "/" + leftId.toString
+        val rp = self.path + "/" + rightId.toString
+        context.actorOf(Neighbour.props(id, lp, rp, finalMessage, printer),
+                        id.toString)
+      }
+      if (neighboursAmount < 1) Map[Int, ActorRef]()
+      else if (neighboursAmount == 1) {
+        Map[Int, ActorRef](1 -> makeNeighbour(1, 1, 1))
+      } else if (neighboursAmount == 2) {
+        Map[Int, ActorRef](1 -> makeNeighbour(1, 2, 2)) +
+          (2 -> makeNeighbour(2, 1, 1))
+      } else {
 
         val first = makeNeighbour(1, neighboursAmount, 2)
         val last = makeNeighbour(neighboursAmount, neighboursAmount - 1, 1)
