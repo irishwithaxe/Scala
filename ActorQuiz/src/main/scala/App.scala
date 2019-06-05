@@ -36,7 +36,7 @@ object App {
     println("enter amount of neighbours")
     val amount = StdIn.readInt()
 
-    if (amount < 3) println("not enough neighbours!")
+    if (amount < 1) println("not enough neighbours!")
     else {
       val neighbourhood = system.actorOf(Neighbourhood.props(amount, "%d %s"))
 
