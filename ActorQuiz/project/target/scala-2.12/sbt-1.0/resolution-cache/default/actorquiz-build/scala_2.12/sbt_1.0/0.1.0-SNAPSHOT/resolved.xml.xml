@@ -4,7 +4,7 @@
 		module="actorquiz-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20190604101652"
+		publication="20190613195152"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>
